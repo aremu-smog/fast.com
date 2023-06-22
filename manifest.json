@@ -1,6 +1,10 @@
 {
-	"name": "Nuke it!",
-	"description": "Make any website blank",
+	"name": "Fast.com",
+	"description": "Internet speed test with fast.com",
 	"version": "1.0",
-	"manifest_version": 3
+	"manifest_version": 3,
+	"action": {
+		"default_popup": "popup.html"
+	},
+	"permissions": ["scripting", "activeTab"]
 }
