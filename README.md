@@ -14,7 +14,7 @@ A Chrome extension allows a fast access to fast.com built in 5 mins. PS: This pr
 
 - See the video below to install:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Es7Ehag46YE?start=109" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[Installation Video](https://youtu.be/Es7Ehag46YE?t=109)
 
 ### Developer
 
