@@ -20,6 +20,8 @@ A Chrome extension allows a fast access to fast.com built in 5 mins. PS: This pr
 
 ![Step 4](./step-4.jpg)
 
+> If you have any issues setting this up, please ping me on [twitter](https://twitter.com/aremu_smog)
+
 ## Credits
 
 PS: Don't forget to star the repo. You can also subscribe to my [YouTube channel](https://www.youtube.com/@webboss) where I teach how to do stuffs like [this](https://youtu.be/Es7Ehag46YE).
