@@ -10,6 +10,6 @@ window.addEventListener("load", e => {
 		document.body.append(iframe)
 
 		preloader.remove()
-		timeTracker.clearTimeout()
+		clearTimeout(timeTracker)
 	}, TIME_DELAY)
 })
